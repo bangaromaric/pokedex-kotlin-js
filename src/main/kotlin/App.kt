@@ -74,6 +74,7 @@ class App : RComponent<RProps, AppState>() {
                 }
             }
         }
+        /*
         h1 {
             +"KotlinConf Explorer"
         }
@@ -108,6 +109,7 @@ class App : RComponent<RProps, AppState>() {
 //                }
 //            }
         }
+        */
 //        state.currentVideo?.let { currentVideo ->
 //            videoPlayer {
 //                video = currentVideo
